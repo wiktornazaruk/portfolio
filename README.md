@@ -15,6 +15,7 @@ I love solving creative problems.
 <a href="https://www.linkedin.com/in/wiktor-nazaruk-3b610018a/"><img align="left" src="/img/icons/linkedin.png" alt="LinkedIn" width="24px"/></a>
 
 <br>
+<br>
 
 If you have any question/feedback, please do not hesitate to reach out to me!
 
