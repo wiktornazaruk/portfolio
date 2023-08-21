@@ -1,4 +1,4 @@
-# Projects
+# portfolio
 
 # [Project 1: Spy hunter](https://github.com/wiktornazaruk/spy_hunter)
 
