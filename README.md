@@ -26,6 +26,6 @@ Simple route finding program
 
 # [Project 5: Calendar app](https://github.com/wiktornazaruk/calendar-app)
 
-Simple calendar app
+Simple calendar app, [try it live](https://wiktornazaruk.github.io/calendar-app/)
 
 ![](/img/calendar_preview.png)
