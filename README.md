@@ -1,5 +1,5 @@
 <h3>
-Hi there, I'm Wiktor a Developer and Data Science student.
+Hi there, I'm Wiktor Nazaruk, developer and data science student.
 </h3>
 
 I love solving creative problems.
