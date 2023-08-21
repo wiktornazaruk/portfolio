@@ -6,7 +6,7 @@ Hi there, I'm <a href="http://wiktornazaruk.me/" target="_blank" rel="noreferrer
 I'm a Developer and Data Science student 💻.
 </h2> 
 
-I love the entire process of solving creative problems.
+I love solving creative problems.
 
 ### 🤝 Connect with me:
 
