@@ -1,3 +1,5 @@
 # portfolio
 
-# [Project 1: Spy hunter game](https://github.com/wiktornazaruk/spy_hunter)
+# [Project 1: Spy hunter](https://github.com/wiktornazaruk/spy_hunter)
+
+Vehicular combat action game
