@@ -10,9 +10,9 @@ I love solving creative problems.
 
 ### 🤝 Connect with me:
 
-[![Github](/img/icons/github.png)](https://github.com/wiktornazaruk)
+<a href="https://github.com/wiktornazaruk"><img align="left" src="/img/icons/github.png" alt="Github" width="24px"/></a>
 
-[![LinkedIn](/img/icons/linkedin.png)](https://www.linkedin.com/in/wiktor-nazaruk-3b610018a/)
+<a href="https://www.linkedin.com/in/wiktor-nazaruk-3b610018a/"><img align="left" src="/img/icons/linkedin.png" alt="LinkedIn" width="24px"/></a>
 
 If you have any question/feedback, please do not hesitate to reach out to me!
 
