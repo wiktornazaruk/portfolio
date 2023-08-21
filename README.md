@@ -1,3 +1,20 @@
+<h3 align="center">
+Hi there, I'm <a href="http://wiktornazaruk.me/" target="_blank" rel="noreferrer">Wiktor</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Developer and Data Science student 💻.
+</h2> 
+
+I love the entire process of solving creative problems.
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/wiktor-nazaruk-3b610018a/"><img align="left" src="https://github.com/wiktornazaruk/portfolio/tree/main/img/icons/linkedin.png" alt="LinkedIn" width="24px"/></a>
+
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 # portfolio
 
 # [Project 1: Spy hunter](https://github.com/wiktornazaruk/spy_hunter)
