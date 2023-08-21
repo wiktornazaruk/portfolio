@@ -15,7 +15,7 @@ I love the entire process of solving creative problems.
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-# portfolio
+# Projects
 
 # [Project 1: Spy hunter](https://github.com/wiktornazaruk/spy_hunter)
 
