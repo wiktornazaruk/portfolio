@@ -12,8 +12,7 @@ I love solving creative problems.
 
 [![LinkedIn](/img/icons/linkedin.png)](https://www.linkedin.com/in/wiktor-nazaruk-3b610018a/)
 
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+If you have any question/feedback, please do not hesitate to reach out to me!
 
 # Projects
 
