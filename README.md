@@ -4,11 +4,13 @@ Hi there, I'm <a href="http://wiktornazaruk.me/" target="_blank" rel="noreferrer
 
 <h2>
 I'm a Developer and Data Science student 💻.
-</h2> 
+</h2>
 
 I love solving creative problems.
 
 ### 🤝 Connect with me:
+
+[![Github](/img/icons/github.png)](https://github.com/wiktornazaruk)
 
 [![LinkedIn](/img/icons/linkedin.png)](https://www.linkedin.com/in/wiktor-nazaruk-3b610018a/)
 
