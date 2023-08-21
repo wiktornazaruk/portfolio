@@ -4,4 +4,10 @@
 
 Vehicular combat action game
 
-![](https://github.com/wiktornazaruk/portfolio/blob/main/img/spy_hunter.png)
+![](https://github.com/wiktornazaruk/portfolio/blob/main/img/spyhunter_preview.png)
+
+# [Project 2: Codepro](https://www.codepro.pro/)
+
+Coding freelance job board website
+
+![](https://github.com/wiktornazaruk/portfolio/blob/main/img/codepro_preview.png)
