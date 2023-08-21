@@ -10,7 +10,7 @@ I love solving creative problems.
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/wiktor-nazaruk-3b610018a/"><img align="left" src="/main/img/icons/linkedin.png" alt="LinkedIn" width="24px"/></a>
+[![LinkedIn](/img/icons/linkedin.png)](https://www.linkedin.com/in/wiktor-nazaruk-3b610018a/)
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
