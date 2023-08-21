@@ -1,8 +1,8 @@
 <h3>
-Hi there, I'm <a href="http://wiktornazaruk.me/" target="_blank" rel="noreferrer">Wiktor</a> 👋
+Hi there, I'm Wiktor 👋.
 </h3>
 
-<h2>
+<h3>
 I'm a Developer and Data Science student 💻.
 </h2>
 
