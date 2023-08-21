@@ -1,14 +1,10 @@
 <h3>
-Hi there, I'm Wiktor 👋.
+Hi there, I'm Wiktor a Developer and Data Science student.
 </h3>
-
-<h3>
-I'm a Developer and Data Science student 💻.
-</h2>
 
 I love solving creative problems.
 
-### 🤝 Connect with me:
+### Connect with me:
 
 <a href="https://github.com/wiktornazaruk"><img align="left" src="/img/icons/github.png" alt="Github" width="24px"/></a>
 
