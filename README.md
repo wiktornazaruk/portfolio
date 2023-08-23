@@ -1,3 +1,5 @@
+<link rel="icon" type="image/png" href="/img/icons/github.png">
+
 <h3>
 Hi there, I'm Wiktor Nazaruk, a developer and data science student.
 </h3>
