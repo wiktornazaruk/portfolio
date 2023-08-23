@@ -1,4 +1,6 @@
-<link rel="icon" type="image/png" href="/img/icons/github.png">
+<head>
+  <link rel="shortcut icon" type="image/png" href="/img/icons/github.png">
+</head>
 
 <h3>
 Hi there, I'm Wiktor Nazaruk, a developer and data science student.
