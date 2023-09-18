@@ -19,12 +19,6 @@ If you have any question/feedback, please do not hesitate to reach out to me!
 
 # Projects
 
-# [Spy hunter](https://github.com/wiktornazaruk/spy_hunter)
-
-Vehicular combat action game
-
-![](/img/spyhunter_preview.png)
-
 # [Codepro](https://www.codepro.pro/)
 
 Coding freelance job board website
@@ -42,6 +36,12 @@ Customizable e-commerce store
 Simple calendar app, [try it live](https://wiktornazaruk.github.io/calendar-app/)
 
 ![](/img/calendar_preview.png)
+
+# [Spy hunter](https://github.com/wiktornazaruk/spy_hunter)
+
+Vehicular combat action game
+
+![](/img/spyhunter_preview.png)
 
 # [2D World Simulator](https://github.com/wiktornazaruk/2D_World_Simulator_Python)
 
