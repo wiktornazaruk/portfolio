@@ -31,19 +31,19 @@ Coding freelance job board website
 
 ![](/img/codepro_preview.png)
 
-# [E-commerce store](https://ecommerce-store-chi-five.vercel.app/)
+# [E-commerce Store](https://ecommerce-store-chi-five.vercel.app/)
 
 Customizable e-commerce store
 
 ![](/img/ecommerce-store_preview.png)
 
-# [Calendar app](https://github.com/wiktornazaruk/calendar-app)
+# [Calendar App](https://github.com/wiktornazaruk/calendar-app)
 
 Simple calendar app, [try it live](https://wiktornazaruk.github.io/calendar-app/)
 
 ![](/img/calendar_preview.png)
 
-# [Spy hunter](https://github.com/wiktornazaruk/spy_hunter)
+# [Spy Hunter](https://github.com/wiktornazaruk/spy_hunter)
 
 Vehicular combat action game
 
