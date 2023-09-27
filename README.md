@@ -31,7 +31,7 @@ Coding freelance job board website
 
 ![](/img/codepro_preview.png)
 
-# [E-commerce Store](https://ecommerce-store-chi-five.vercel.app/)
+# [E-Commerce Store](https://ecommerce-store-chi-five.vercel.app/)
 
 Customizable e-commerce store
 
